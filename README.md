@@ -1,3 +1,4 @@
+Author -- Shahzaib Ali
 # Tailwind UI Components
 
 A collection of reusable Tailwind CSS components for modern web applications.
